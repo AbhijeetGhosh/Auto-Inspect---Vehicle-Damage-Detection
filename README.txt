@@ -1,6 +1,6 @@
 This project provides an automated solution to detect and highlight new damages (scratches, dents, etc.) on vehicles by comparing before-ride and after-ride images. It is designed to minimize manual inspection, reduce human error, and ensure consistent assessments. Uses computer vision concepts and eventually also AI. 
 
-# HOW TO RUN THE CODE:
+# **HOW TO RUN THE CODE:**
 1. Install all the necessary libraries using the requirements file. Run:
 pip install -r requirements.txt
 
