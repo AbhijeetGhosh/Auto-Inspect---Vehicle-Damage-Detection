@@ -1,0 +1,145 @@
+[
+    {
+        "part": "full_image",
+        "bbox": [
+            456,
+            433,
+            606,
+            467
+        ],
+        "area": 5100,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            46,
+            432,
+            305,
+            468
+        ],
+        "area": 9324,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            228,
+            398,
+            275,
+            425
+        ],
+        "area": 1269,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            605,
+            390,
+            640,
+            425
+        ],
+        "area": 1225,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            276,
+            386,
+            315,
+            413
+        ],
+        "area": 1053,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            22,
+            383,
+            94,
+            425
+        ],
+        "area": 3024,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            99,
+            382,
+            162,
+            415
+        ],
+        "area": 2079,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            364,
+            372,
+            415,
+            402
+        ],
+        "area": 1530,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            114,
+            341,
+            197,
+            360
+        ],
+        "area": 1577,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            545,
+            93,
+            598,
+            113
+        ],
+        "area": 1060,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            79,
+            54,
+            214,
+            64
+        ],
+        "area": 1350,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            48,
+            0,
+            119,
+            20
+        ],
+        "area": 1420,
+        "label": "damage_detected"
+    },
+    {
+        "part": "full_image",
+        "bbox": [
+            0,
+            0,
+            640,
+            480
+        ],
+        "area": 307200,
+        "label": "damage_detected"
+    }
+]
